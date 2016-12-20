@@ -4,5 +4,5 @@ Una posible solucion al error:
   Please be aware that this page will not be shown if you turn off debug mode unless you replace 
   src/Template/Pages/home.ctp with your own version.
 
-que se muestra al iniciar un proyecto con cakephp.
+que se muestra al iniciar un proyecto con cakephp 3.0.
 
